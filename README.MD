@@ -22,7 +22,10 @@ ___
 ## Essential Packages
 ```
 sudo apt update && sudo apt upgrade -y
-sudo apt install vlc lutris code gnome-tweaks transmission ddcutil zsh telegram-desktop alacritty neofetch gnome-sushi
+sudo apt install vlc code gnome-tweaks transmission ddcutil zsh telegram-desktop alacritty neofetch gnome-sushi gnome-screenshot
+
+#optional:
+sudo apt install lutris
 ```
 - ddcutil is for the monitor brightness gnome plugin
 ___
