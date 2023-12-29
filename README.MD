@@ -51,6 +51,9 @@ lsd:
 https://github.com/lsd-rs/lsd
 - install: `sudo dpkg -i ./lsd-musl_1.0.0_amd64.deb`
 ___
+## Font Install/Copy
+`sudo cp -r ./jetbrains /usr/share/fonts/truetype/`
+
 ## Config Files:
 ### Alacritty: 
 `cp ./alacritty/alacritty.yml ~/.config/alacritty/`
