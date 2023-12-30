@@ -40,6 +40,10 @@ Spotify:
 
 `sudo sh ./Spotify_Install.sh`
 
+LocalSend:
+
+`sudo sh ./Local_Send_Install.sh`
+
 Flatpak Apps:
 
 `flatpak install bitwarden obsidian io.github.realmazharhussain.GdmSettings`
