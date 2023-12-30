@@ -18,6 +18,16 @@ sudo apt install bcmwl-kernel-source
 - Purpose: Drivers that enable WIFI
 ### CoreCtrl (AMD GPU Control)
 View install instructions here: https://gitlab.com/corectrl/corectrl
+
+## Laptop Specific
+```
+sudo apt update && sudo apt upgrade -y
+sudo sh ./Acer_Swift_Battery_Limiter_Script.sh
+
+# Then install the Battery Health Charging Gnome Extension
+# https://extensions.gnome.org/extension/5724/battery-health-charging/
+```
+
 ___
 ## Essential Packages
 ```
@@ -88,7 +98,8 @@ Gnome Extensions:
 1. User Themes
 2. Emoji Selector
 3. Resource Monitor
-4. Adjust Display Brightness
+4. Adjust Display Brightness (Desktop Specific)
+5. Battery Health Charging (Laptop Specific)
 
 ### Links:
 1. Nordic-Darker Theme:
