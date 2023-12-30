@@ -1,1 +1,1 @@
-ls="lsd -a"
+alias ls="lsd -a"
