@@ -18,7 +18,7 @@ sudo apt install bcmwl-kernel-source
 - Purpose: Drivers that enable WIFI
 ### CoreCtrl (AMD GPU Control)
 View install instructions here: https://gitlab.com/corectrl/corectrl
-
+---
 ## Laptop Specific
 ```
 sudo apt update && sudo apt upgrade -y
@@ -26,6 +26,7 @@ sudo sh ./Acer_Swift_Battery_Limiter_Script.sh
 
 # Then install the Battery Health Charging Gnome Extension
 # https://extensions.gnome.org/extension/5724/battery-health-charging/
+# Git: https://github.com/frederik-h/acer-wmi-battery
 ```
 
 ___
